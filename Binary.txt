@@ -1,0 +1,19 @@
+3. Determine the nines complements of the decimal numbers:
+4535 --> 9999 - 4535 =
+507606 --> 999999 - 507606 =
+78534019 --> 99999999 - 78534019 =
+4. Determine the one’s and two’s complements of the binary numbers:
+                       one's                 two's
+0011 0011              1100 1100             1100 1101
+1000 1100              0 111 0011             0111 0100
+0000 0101 1101 1101    1111 1010 0010 0010
+5. Convert each binary number to its decimal equivalent:
+101
+110110
+111011001
+101010101
+6. Convert each decimal number to its binary equivalent:
+2857
+4503
+46098
+694
